@@ -1,0 +1,6 @@
+
+cargo new sudoku_solver
+
+cargo build
+
+cargo test
